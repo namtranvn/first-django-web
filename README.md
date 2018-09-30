@@ -2,6 +2,7 @@
 
 ## Reference: Django by example – Antonio Melé
 
+```
 Implementation:
 In Terminal:
 pip install python-social-auth[django]
@@ -13,3 +14,4 @@ python manage.py createsuperuser
 python manage.py runserver
 
 check http://127.0.0.1:8000/admin/
+```
