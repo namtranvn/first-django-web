@@ -1,4 +1,4 @@
-# first-django-web
+# First-Django-Web
 
 ## Reference: Django by example – Antonio Melé
 
