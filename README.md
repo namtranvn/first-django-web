@@ -2,8 +2,8 @@
 
 ## Reference: Django by example – Antonio Melé
 
+## Implementation:
 ```
-Implementation:
 In Terminal:
 pip install python-social-auth[django]
 pip install Pillow
